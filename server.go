@@ -5,8 +5,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/GaoMjun/ladder"
-	"github.com/GaoMjun/tcpip"
+	"ladder"
+	"tcpip"
 )
 
 type Server struct {

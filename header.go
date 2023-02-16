@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"github.com/GaoMjun/tcpip"
+	"tcpip"
 )
 
 type Header struct {

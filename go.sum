@@ -1,0 +1,14 @@
+github.com/GaoMjun/goutils v0.0.0-20230216091549-748a48fb2458 h1:Ca4xAOHBDch2Ovama/HvZCufXb4t2P7Le5LNOoK5+Uw=
+github.com/GaoMjun/goutils v0.0.0-20230216091549-748a48fb2458/go.mod h1:d9vBcKK9T4szfICJ99q5C4UUbMDcTeCWK9JN3Xk+7pU=
+github.com/GaoMjun/ladder v0.0.0-20190418104442-14c247b1205e h1:kdKUYX6sVEXcpsVwKinoYC4nz+qk8b24P1xDq9n9M+s=
+github.com/GaoMjun/ladder v0.0.0-20190418104442-14c247b1205e/go.mod h1:bHOUyJnfridND3H2u3/EfFrVWw3Xe5FFiTT0NTYvlys=
+github.com/GaoMjun/tcpip v0.0.0-20191023054252-0c623063cd59 h1:7ktpQtP3NavlXNU7LuZyWA83P0OAx4lfGgXtJa6bMnw=
+github.com/GaoMjun/tcpip v0.0.0-20191023054252-0c623063cd59/go.mod h1:+uRwEbyh4YlY37uhN1SlDelEG+zvKkpSPA/vcLeob4w=
+github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5 h1:0CwZNZbxp69SHPdPJAN/hZIm0C4OItdklCFmMRWYpio=
+github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5/go.mod h1:wHh0iHkYZB8zMSxRWpUBQtwG5a7fFgvEO+odwuTv2gs=
+github.com/golang/snappy v0.0.4 h1:yAGX7huGHXlcLOEtBnF4w7FQwA26wojNCwOYAEhLjQM=
+github.com/golang/snappy v0.0.4/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
+github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
+github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+golang.org/x/net v0.7.0 h1:rJrUqqhjsgNp7KqAIc25s9pZnjU7TUcSY7HcVZjdn1g=
+golang.org/x/net v0.7.0/go.mod h1:2Tu9+aMcznHK/AK1HMvgo6xiTLG5rD5rZLDS+rp2Bjs=

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/GaoMjun/tcpip"
+	"tcpip"
 )
 
 type Conn struct {
